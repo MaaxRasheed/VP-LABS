@@ -1,0 +1,11 @@
+E:\Visual Studio Files\ToDoLibrary\bin\Debug\net8.0\ToDoLibrary.deps.json
+E:\Visual Studio Files\ToDoLibrary\bin\Debug\net8.0\ToDoLibrary.dll
+E:\Visual Studio Files\ToDoLibrary\bin\Debug\net8.0\ToDoLibrary.pdb
+E:\Visual Studio Files\ToDoLibrary\obj\Debug\net8.0\ToDoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Files\ToDoLibrary\obj\Debug\net8.0\ToDoLibrary.AssemblyInfoInputs.cache
+E:\Visual Studio Files\ToDoLibrary\obj\Debug\net8.0\ToDoLibrary.AssemblyInfo.cs
+E:\Visual Studio Files\ToDoLibrary\obj\Debug\net8.0\ToDoLibrary.csproj.CoreCompileInputs.cache
+E:\Visual Studio Files\ToDoLibrary\obj\Debug\net8.0\ToDoLibrary.dll
+E:\Visual Studio Files\ToDoLibrary\obj\Debug\net8.0\refint\ToDoLibrary.dll
+E:\Visual Studio Files\ToDoLibrary\obj\Debug\net8.0\ToDoLibrary.pdb
+E:\Visual Studio Files\ToDoLibrary\obj\Debug\net8.0\ref\ToDoLibrary.dll
