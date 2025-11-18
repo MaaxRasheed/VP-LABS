@@ -1,0 +1,15 @@
+E:\Visual Studio Files\Lab 9(b)\bin\Debug\Lab 9(b).exe.config
+E:\Visual Studio Files\Lab 9(b)\bin\Debug\Lab 9(b).exe
+E:\Visual Studio Files\Lab 9(b)\bin\Debug\Lab 9(b).pdb
+E:\Visual Studio Files\Lab 9(b)\obj\Debug\Lab 9(b).csproj.AssemblyReference.cache
+E:\Visual Studio Files\Lab 9(b)\obj\Debug\Lab_9_b_.Form1.resources
+E:\Visual Studio Files\Lab 9(b)\obj\Debug\Lab_9_b_.MenuForm.resources
+E:\Visual Studio Files\Lab 9(b)\obj\Debug\Lab_9_b_.Properties.Resources.resources
+E:\Visual Studio Files\Lab 9(b)\obj\Debug\Lab 9(b).csproj.GenerateResource.cache
+E:\Visual Studio Files\Lab 9(b)\obj\Debug\Lab 9(b).csproj.CoreCompileInputs.cache
+E:\Visual Studio Files\Lab 9(b)\obj\Debug\Lab 9(b).exe
+E:\Visual Studio Files\Lab 9(b)\obj\Debug\Lab 9(b).pdb
+E:\Visual Studio Files\Lab 9(b)\obj\Debug\Lab_9_b_.AddForm.resources
+E:\Visual Studio Files\Lab 9(b)\obj\Debug\Lab_9_b_.DeleteForm.resources
+E:\Visual Studio Files\Lab 9(b)\obj\Debug\Lab_9_b_.UpdateForm.resources
+E:\Visual Studio Files\Lab 9(b)\obj\Debug\Lab_9_b_.ViewForm.resources
