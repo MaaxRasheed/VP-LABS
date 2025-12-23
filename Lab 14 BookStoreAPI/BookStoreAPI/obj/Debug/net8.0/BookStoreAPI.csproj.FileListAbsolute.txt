@@ -1,0 +1,71 @@
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStoreAPI.csproj.AssemblyReference.cache
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStoreAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStoreAPI.AssemblyInfoInputs.cache
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStoreAPI.AssemblyInfo.cs
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStoreAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStoreAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\bin\Debug\net8.0\BookStoreAPI.staticwebassets.endpoints.json
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\bin\Debug\net8.0\BookStoreAPI.exe
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\bin\Debug\net8.0\BookStoreAPI.deps.json
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\bin\Debug\net8.0\BookStoreAPI.runtimeconfig.json
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\bin\Debug\net8.0\BookStoreAPI.dll
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\bin\Debug\net8.0\BookStoreAPI.pdb
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\scopedcss\bundle\BookStoreAPI.styles.css
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStor.D9EAB9B2.Up2Date
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStoreAPI.dll
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\refint\BookStoreAPI.dll
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStoreAPI.pdb
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStoreAPI.genruntimeconfig.cache
+C:\Users\Super\Documents\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\ref\BookStoreAPI.dll
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\bin\Debug\net8.0\appsettings.Development.json
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\bin\Debug\net8.0\appsettings.json
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\bin\Debug\net8.0\BookStoreAPI.staticwebassets.endpoints.json
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\bin\Debug\net8.0\BookStoreAPI.exe
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\bin\Debug\net8.0\BookStoreAPI.deps.json
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\bin\Debug\net8.0\BookStoreAPI.runtimeconfig.json
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\bin\Debug\net8.0\BookStoreAPI.dll
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\bin\Debug\net8.0\BookStoreAPI.pdb
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStoreAPI.csproj.AssemblyReference.cache
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStoreAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStoreAPI.AssemblyInfoInputs.cache
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStoreAPI.AssemblyInfo.cs
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStoreAPI.csproj.CoreCompileInputs.cache
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStoreAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStoreAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\scopedcss\bundle\BookStoreAPI.styles.css
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\staticwebassets.build.json
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\staticwebassets.development.json
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\staticwebassets\msbuild.BookStoreAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\staticwebassets\msbuild.BookStoreAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.BookStoreAPI.props
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookStoreAPI.props
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookStoreAPI.props
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStor.D9EAB9B2.Up2Date
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStoreAPI.dll
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\refint\BookStoreAPI.dll
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStoreAPI.pdb
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\BookStoreAPI.genruntimeconfig.cache
+E:\Visual Studio Files\BookStoreAPI\BookStoreAPI\obj\Debug\net8.0\ref\BookStoreAPI.dll
